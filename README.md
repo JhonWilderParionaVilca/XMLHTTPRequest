@@ -8,6 +8,8 @@
 🚫 <i>Actualmente se usa fetch o axios para realizar peticiones</i>
 </p>
 
+[🌐 Demo](https://wilderpariona.github.io/XMLHTTPRequest/)
+
 <img src="assets/img/page.png" alt="preview">
 
 ## Api
